@@ -1,0 +1,13 @@
+C:\Users\Rafau\source\repos\CoreConsoleExercises\DelegatesAndEventsSandbox\bin\Debug\netcoreapp3.1\DelegatesAndEventsSandbox.exe
+C:\Users\Rafau\source\repos\CoreConsoleExercises\DelegatesAndEventsSandbox\bin\Debug\netcoreapp3.1\DelegatesAndEventsSandbox.deps.json
+C:\Users\Rafau\source\repos\CoreConsoleExercises\DelegatesAndEventsSandbox\bin\Debug\netcoreapp3.1\DelegatesAndEventsSandbox.runtimeconfig.json
+C:\Users\Rafau\source\repos\CoreConsoleExercises\DelegatesAndEventsSandbox\bin\Debug\netcoreapp3.1\DelegatesAndEventsSandbox.runtimeconfig.dev.json
+C:\Users\Rafau\source\repos\CoreConsoleExercises\DelegatesAndEventsSandbox\bin\Debug\netcoreapp3.1\DelegatesAndEventsSandbox.dll
+C:\Users\Rafau\source\repos\CoreConsoleExercises\DelegatesAndEventsSandbox\bin\Debug\netcoreapp3.1\DelegatesAndEventsSandbox.pdb
+C:\Users\Rafau\source\repos\CoreConsoleExercises\DelegatesAndEventsSandbox\obj\Debug\netcoreapp3.1\DelegatesAndEventsSandbox.csprojAssemblyReference.cache
+C:\Users\Rafau\source\repos\CoreConsoleExercises\DelegatesAndEventsSandbox\obj\Debug\netcoreapp3.1\DelegatesAndEventsSandbox.AssemblyInfoInputs.cache
+C:\Users\Rafau\source\repos\CoreConsoleExercises\DelegatesAndEventsSandbox\obj\Debug\netcoreapp3.1\DelegatesAndEventsSandbox.AssemblyInfo.cs
+C:\Users\Rafau\source\repos\CoreConsoleExercises\DelegatesAndEventsSandbox\obj\Debug\netcoreapp3.1\DelegatesAndEventsSandbox.csproj.CoreCompileInputs.cache
+C:\Users\Rafau\source\repos\CoreConsoleExercises\DelegatesAndEventsSandbox\obj\Debug\netcoreapp3.1\DelegatesAndEventsSandbox.dll
+C:\Users\Rafau\source\repos\CoreConsoleExercises\DelegatesAndEventsSandbox\obj\Debug\netcoreapp3.1\DelegatesAndEventsSandbox.pdb
+C:\Users\Rafau\source\repos\CoreConsoleExercises\DelegatesAndEventsSandbox\obj\Debug\netcoreapp3.1\DelegatesAndEventsSandbox.genruntimeconfig.cache

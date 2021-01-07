@@ -1,0 +1,14 @@
+D:\szlify c\.net proj1\numberguesser\bin\Debug\numberguesser.exe.config
+D:\szlify c\.net proj1\numberguesser\bin\Debug\numberguesser.exe
+D:\szlify c\.net proj1\numberguesser\bin\Debug\numberguesser.pdb
+D:\szlify c\.net proj1\numberguesser\obj\Debug\dotnet exercises.csprojAssemblyReference.cache
+D:\szlify c\.net proj1\numberguesser\obj\Debug\dotnet exercises.csproj.CoreCompileInputs.cache
+D:\szlify c\.net proj1\numberguesser\obj\Debug\numberguesser.exe
+D:\szlify c\.net proj1\numberguesser\obj\Debug\numberguesser.pdb
+C:\Users\Rafau\source\repos\.net proj1\numberguesser\bin\Debug\numberguesser.exe.config
+C:\Users\Rafau\source\repos\.net proj1\numberguesser\bin\Debug\numberguesser.exe
+C:\Users\Rafau\source\repos\.net proj1\numberguesser\bin\Debug\numberguesser.pdb
+C:\Users\Rafau\source\repos\.net proj1\numberguesser\obj\Debug\dotnet exercises.csprojAssemblyReference.cache
+C:\Users\Rafau\source\repos\.net proj1\numberguesser\obj\Debug\dotnet exercises.csproj.CoreCompileInputs.cache
+C:\Users\Rafau\source\repos\.net proj1\numberguesser\obj\Debug\numberguesser.exe
+C:\Users\Rafau\source\repos\.net proj1\numberguesser\obj\Debug\numberguesser.pdb

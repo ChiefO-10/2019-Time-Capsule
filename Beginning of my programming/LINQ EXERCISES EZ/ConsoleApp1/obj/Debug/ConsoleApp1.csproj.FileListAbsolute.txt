@@ -1,0 +1,14 @@
+C:\Users\Rafal\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Rafal\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Rafal\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Rafal\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Rafal\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Rafal\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Rafal\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\szlify c\c#\LINQ EXERCISES EZ\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\szlify c\c#\LINQ EXERCISES EZ\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\szlify c\c#\LINQ EXERCISES EZ\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\szlify c\c#\LINQ EXERCISES EZ\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\szlify c\c#\LINQ EXERCISES EZ\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\szlify c\c#\LINQ EXERCISES EZ\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\szlify c\c#\LINQ EXERCISES EZ\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

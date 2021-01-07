@@ -1,0 +1,7 @@
+D:\szlify c\.net proj1\numberguesser\bin\Debug\numberguesser.exe.config
+D:\szlify c\.net proj1\numberguesser\bin\Debug\numberguesser.exe
+D:\szlify c\.net proj1\numberguesser\bin\Debug\numberguesser.pdb
+D:\szlify c\.net proj1\numberguesser\obj\Debug\numberguesser.csprojAssemblyReference.cache
+D:\szlify c\.net proj1\numberguesser\obj\Debug\numberguesser.csproj.CoreCompileInputs.cache
+D:\szlify c\.net proj1\numberguesser\obj\Debug\numberguesser.exe
+D:\szlify c\.net proj1\numberguesser\obj\Debug\numberguesser.pdb

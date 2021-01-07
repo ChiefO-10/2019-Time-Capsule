@@ -1,0 +1,26 @@
+C:\Users\Rafau\source\repos\CoreConsoleExercises\AsyncPractice\bin\Debug\netcoreapp3.1\AsyncPractice.exe
+C:\Users\Rafau\source\repos\CoreConsoleExercises\AsyncPractice\bin\Debug\netcoreapp3.1\AsyncPractice.deps.json
+C:\Users\Rafau\source\repos\CoreConsoleExercises\AsyncPractice\bin\Debug\netcoreapp3.1\AsyncPractice.runtimeconfig.json
+C:\Users\Rafau\source\repos\CoreConsoleExercises\AsyncPractice\bin\Debug\netcoreapp3.1\AsyncPractice.runtimeconfig.dev.json
+C:\Users\Rafau\source\repos\CoreConsoleExercises\AsyncPractice\bin\Debug\netcoreapp3.1\AsyncPractice.dll
+C:\Users\Rafau\source\repos\CoreConsoleExercises\AsyncPractice\bin\Debug\netcoreapp3.1\AsyncPractice.pdb
+C:\Users\Rafau\source\repos\CoreConsoleExercises\AsyncPractice\obj\Debug\netcoreapp3.1\AsyncPractice.csprojAssemblyReference.cache
+C:\Users\Rafau\source\repos\CoreConsoleExercises\AsyncPractice\obj\Debug\netcoreapp3.1\AsyncPractice.AssemblyInfoInputs.cache
+C:\Users\Rafau\source\repos\CoreConsoleExercises\AsyncPractice\obj\Debug\netcoreapp3.1\AsyncPractice.AssemblyInfo.cs
+C:\Users\Rafau\source\repos\CoreConsoleExercises\AsyncPractice\obj\Debug\netcoreapp3.1\AsyncPractice.csproj.CoreCompileInputs.cache
+C:\Users\Rafau\source\repos\CoreConsoleExercises\AsyncPractice\obj\Debug\netcoreapp3.1\AsyncPractice.dll
+C:\Users\Rafau\source\repos\CoreConsoleExercises\AsyncPractice\obj\Debug\netcoreapp3.1\AsyncPractice.pdb
+C:\Users\Rafau\source\repos\CoreConsoleExercises\AsyncPractice\obj\Debug\netcoreapp3.1\AsyncPractice.genruntimeconfig.cache
+C:\Users\Rafau\source\repos\2019 TimeCapsule\CoreConsoleExercises\AsyncPractice\bin\Debug\netcoreapp3.1\AsyncPractice.exe
+C:\Users\Rafau\source\repos\2019 TimeCapsule\CoreConsoleExercises\AsyncPractice\bin\Debug\netcoreapp3.1\AsyncPractice.deps.json
+C:\Users\Rafau\source\repos\2019 TimeCapsule\CoreConsoleExercises\AsyncPractice\bin\Debug\netcoreapp3.1\AsyncPractice.runtimeconfig.json
+C:\Users\Rafau\source\repos\2019 TimeCapsule\CoreConsoleExercises\AsyncPractice\bin\Debug\netcoreapp3.1\AsyncPractice.runtimeconfig.dev.json
+C:\Users\Rafau\source\repos\2019 TimeCapsule\CoreConsoleExercises\AsyncPractice\bin\Debug\netcoreapp3.1\AsyncPractice.dll
+C:\Users\Rafau\source\repos\2019 TimeCapsule\CoreConsoleExercises\AsyncPractice\bin\Debug\netcoreapp3.1\AsyncPractice.pdb
+C:\Users\Rafau\source\repos\2019 TimeCapsule\CoreConsoleExercises\AsyncPractice\obj\Debug\netcoreapp3.1\AsyncPractice.csprojAssemblyReference.cache
+C:\Users\Rafau\source\repos\2019 TimeCapsule\CoreConsoleExercises\AsyncPractice\obj\Debug\netcoreapp3.1\AsyncPractice.AssemblyInfoInputs.cache
+C:\Users\Rafau\source\repos\2019 TimeCapsule\CoreConsoleExercises\AsyncPractice\obj\Debug\netcoreapp3.1\AsyncPractice.AssemblyInfo.cs
+C:\Users\Rafau\source\repos\2019 TimeCapsule\CoreConsoleExercises\AsyncPractice\obj\Debug\netcoreapp3.1\AsyncPractice.csproj.CoreCompileInputs.cache
+C:\Users\Rafau\source\repos\2019 TimeCapsule\CoreConsoleExercises\AsyncPractice\obj\Debug\netcoreapp3.1\AsyncPractice.dll
+C:\Users\Rafau\source\repos\2019 TimeCapsule\CoreConsoleExercises\AsyncPractice\obj\Debug\netcoreapp3.1\AsyncPractice.pdb
+C:\Users\Rafau\source\repos\2019 TimeCapsule\CoreConsoleExercises\AsyncPractice\obj\Debug\netcoreapp3.1\AsyncPractice.genruntimeconfig.cache

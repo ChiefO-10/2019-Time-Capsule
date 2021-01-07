@@ -1,0 +1,29 @@
+D:\szlify c\WpfAppframework\WpfAppframework\bin\Debug\WpfAppframework.exe.config
+D:\szlify c\WpfAppframework\WpfAppframework\bin\Debug\WpfAppframework.exe
+D:\szlify c\WpfAppframework\WpfAppframework\bin\Debug\WpfAppframework.pdb
+D:\szlify c\WpfAppframework\WpfAppframework\obj\Debug\WpfAppframework.csprojAssemblyReference.cache
+D:\szlify c\WpfAppframework\WpfAppframework\obj\Debug\MainWindow.g.cs
+D:\szlify c\WpfAppframework\WpfAppframework\obj\Debug\App.g.cs
+D:\szlify c\WpfAppframework\WpfAppframework\obj\Debug\WpfAppframework_MarkupCompile.cache
+D:\szlify c\WpfAppframework\WpfAppframework\obj\Debug\WpfAppframework_MarkupCompile.lref
+D:\szlify c\WpfAppframework\WpfAppframework\obj\Debug\MainWindow.baml
+D:\szlify c\WpfAppframework\WpfAppframework\obj\Debug\WpfAppframework.g.resources
+D:\szlify c\WpfAppframework\WpfAppframework\obj\Debug\WpfAppframework.Properties.Resources.resources
+D:\szlify c\WpfAppframework\WpfAppframework\obj\Debug\WpfAppframework.csproj.GenerateResource.cache
+D:\szlify c\WpfAppframework\WpfAppframework\obj\Debug\WpfAppframework.exe
+D:\szlify c\WpfAppframework\WpfAppframework\obj\Debug\WpfAppframework.pdb
+C:\Users\Rafau\source\repos\WpfAppframework\WpfAppframework\bin\Debug\WpfAppframework.exe.config
+C:\Users\Rafau\source\repos\WpfAppframework\WpfAppframework\bin\Debug\WpfAppframework.exe
+C:\Users\Rafau\source\repos\WpfAppframework\WpfAppframework\bin\Debug\WpfAppframework.pdb
+C:\Users\Rafau\source\repos\WpfAppframework\WpfAppframework\obj\Debug\WpfAppframework.csprojAssemblyReference.cache
+C:\Users\Rafau\source\repos\WpfAppframework\WpfAppframework\obj\Debug\MainWindow.g.cs
+C:\Users\Rafau\source\repos\WpfAppframework\WpfAppframework\obj\Debug\App.g.cs
+C:\Users\Rafau\source\repos\WpfAppframework\WpfAppframework\obj\Debug\WpfAppframework_MarkupCompile.cache
+C:\Users\Rafau\source\repos\WpfAppframework\WpfAppframework\obj\Debug\WpfAppframework_MarkupCompile.lref
+C:\Users\Rafau\source\repos\WpfAppframework\WpfAppframework\obj\Debug\MainWindow.baml
+C:\Users\Rafau\source\repos\WpfAppframework\WpfAppframework\obj\Debug\WpfAppframework.g.resources
+C:\Users\Rafau\source\repos\WpfAppframework\WpfAppframework\obj\Debug\WpfAppframework.Properties.Resources.resources
+C:\Users\Rafau\source\repos\WpfAppframework\WpfAppframework\obj\Debug\WpfAppframework.csproj.GenerateResource.cache
+C:\Users\Rafau\source\repos\WpfAppframework\WpfAppframework\obj\Debug\WpfAppframework.csproj.CoreCompileInputs.cache
+C:\Users\Rafau\source\repos\WpfAppframework\WpfAppframework\obj\Debug\WpfAppframework.exe
+C:\Users\Rafau\source\repos\WpfAppframework\WpfAppframework\obj\Debug\WpfAppframework.pdb
